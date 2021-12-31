@@ -25,3 +25,4 @@ responses>=0.13.2
 sphinx>=2.1.2
 sphinx_rtd_theme>=0.5.1
 virtualenv
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
